@@ -1,0 +1,48 @@
+1)
+  1 - Hardware
+  2 - Hardware
+  3 - Software
+  4 - Software
+  5 - Hardware
+
+2) É uma sequência de comandos que tem efeitos no hardware, é importante pois tem uma infinidade de utilidades, como 
+realizar cálculos, criar bancos de dados, etc.
+
+3) Algoritmo é uma sequência de comandos passo a passo.
+
+4) Medicina: softwares de digitalização de imagem dos exames, monitoramento de batimento cardíaco.
+Ciência: calculadoras científicas, simuladores para engenharias.
+Entretenimento: Netflix, Spotify, Steam.
+
+5) Mais fácil: Mapas online, calculadora, IDEs, WhatsApp, etc.
+Mais difícil: SIGAA.
+
+6) Comunicação, por exemplo com WhatsApp, só é possível graças a computação.
+
+7) Jogar LoL.
+
+8) WhatsApp, Instagram, VS Code, Nubank, Samsung Notes, Google Chrome, Discord, etc.
+
+9) Cozinhar, dormir, comer, caminhar, conversar, meditar, praticar esporte, jogar jogos de carta ou tabuleiro, arrumar a casa, escovar os dentes.
+
+10) Se for acabar, só vai acontecer daqui muito tempo, pois ela ainda precisa de pessoas para definirem seus parâmetros.
+
+11) Processador i5 de 9ª geração, 16GB de RAM e SSD de 420GB.
+
+12) Enquanto todos os lados não estiverem com a mesma cor: gire o cubo.
+
+13) Bit é a menor unidade de armazenamento, byte é um conjunto de 8 bits.
+
+14) Usa-se de convenções, por exemplo, números que começam com 1 são negativos e com 0 são postivos, X primeiros bits referem-se
+à parte inteira e o resto é a parte decimal.
+
+15) Divisões sucessivas por 2 até o resultado dar 0, os restos formam o número em binário, sendo o primeiro resto o dígito menos significativo.
+
+16) O Scrum master é o líder do time, que ajuda o time a trabalhar usando a estratégia Scrum. O dono do produto faz as principais decisões sobre como o produto vai ser de forma de geral. 
+O time de desenvolvimento faz todo o trabalho do código.
+
+17) Para mover: move <local atual do arquivo aqui> <destino do arquivo aqui>
+Para copiar: copy <local atual do arquivo> <destino do arquivo>
+Para remover: del <local atual do arquivo>
+
+18) Para o Wi-Fi é IEEE 802.11, para o Bluetooth é IEEE 802.15.1.
